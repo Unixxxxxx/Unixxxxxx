@@ -38,7 +38,7 @@
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>
   &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="40"/>
 </p>
 
 **Frontend:**
@@ -68,17 +68,21 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" height="40"/>
   &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="40"/>
 </p>
 
 **Security & SIEM:**
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="ELK Stack" width="80" height="50"/>
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK Stack" height="40"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Kali Linux" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Wazuh-3AAFA9?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" height="40"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
 </p>
@@ -97,7 +101,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br/><br/>
-  <a href="mailto:Sudhanshuroyss208@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#1a496f7e727b7469726f6875636969282a225a7d777b737634797577">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br/><br/>
@@ -144,7 +148,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Sudhanshu_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:Sudhanshuroyss208@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#7b280e1f131a1508130e0914020808494b433b1c161a121755181416">
     <img src="https://img.shields.io/badge/Gmail-Sudhanshuroyss208@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -160,5 +164,4 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Unixxxxxx&style=flat-square&color=00d9ff&label=Profile+Views" alt="Profile Views" />
-</p>
+  <img src="https://komarev.com/ghpvc/
