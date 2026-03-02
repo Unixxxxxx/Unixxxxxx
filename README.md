@@ -145,15 +145,15 @@ class SudhanshuSharma:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Unixxxxxx&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00ffaa&text_color=c9d5e3&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Unixxxxxx&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00ffaa&text_color=c9d5e3&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Unixxxxxx&hide_border=true&background=0d1117&ring=00d9ff&fire=00ffaa&currStreakLabel=00d9ff&sideLabels=c9d5e3&dates=7a93ae&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unixxxxxx&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d5e3&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Unixxxxxx&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d5e3&langs_count=8" alt="Top Languages" />
 
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Unixxxxxx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=3" alt="Trophies" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Unixxxxxx&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=3" alt="Trophies" />
 
 </div>
 
@@ -163,7 +163,7 @@ class SudhanshuSharma:
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Unixxxxxx&bg_color=0d1117&color=00d9ff&line=00ffaa&point=ffffff&area=true&area_color=00d9ff&hide_border=true&custom_title=Sudhanshu's%20Contribution%20Graph" alt="Contribution Graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Unixxxxxx&bg_color=0d1117&color=00d9ff&line=00ffaa&point=ffffff&area=true&hide_border=true&custom_title=Sudhanshu%27s%20Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
