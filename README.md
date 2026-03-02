@@ -153,7 +153,7 @@ class SudhanshuSharma:
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Unixxxxxx&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d5e3&langs_count=8" alt="Top Languages" />
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=Unixxxxxx&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d5e3&icon_color=00ffaa&layout=compact&langs_count=6&v=2" alt="WakaTime Stats" onerror="this.style.display='none'" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Unixxxxxx&layout=donut&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d5e3&langs_count=6" alt="Languages Donut" />
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unixxxxxx&theme=tokyonight" alt="Profile Summary" />
 
