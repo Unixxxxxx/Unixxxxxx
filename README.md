@@ -36,7 +36,7 @@ class SudhanshuSharma:
     name       = "Sudhanshu Sharma"
     alias      = "Unixxxxxx"
     location   = "India 🇮🇳"
-    education  = "Chandigarh University, 2023"
+    education  = "Chandigarh University"
 
     roles = [
         "Full Stack Developer",
