@@ -56,7 +56,7 @@ class Developer:
     name       = "Sudhanshu Sharma"
     alias      = "Unixxxxxx"
     location   = "India 🇮🇳"
-    education  = "Chandigarh University '23"
+    education  = "Chandigarh University '24"
 
     roles = [
         "🛡️  Cyber Security Analyst",
